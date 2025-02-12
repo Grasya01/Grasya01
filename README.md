@@ -1,16 +1,24 @@
-## Hi there 👋
+## Hi there 👋 Welcome to my GitHub Profile!  
 
-<!--
-**Grasya01/Grasya01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Grasya01**, a passionate developer always exploring new technologies.  
+I love working on **backend systems, APIs, and DevOps** 🚀  
 
-Here are some ideas to get you started:
+### 🌱 **What I'm currently working on:**
+- 🔧 Building and maintaining **Laravel & Node.js APIs**  
+- 🛠️ Setting up **Docker, Proxmox, and VM environments**  
+- ⚡ Working on **Fastify, MySQL, and Redis integration**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💡 **Things I'm Learning:**
+- Kubernetes & container orchestration 🐳  
+- Advanced API security and performance optimization 🔐  
+- Improving CI/CD automation with GitHub Actions 🚀  
+
+### 📫 **Let's Connect!**
+- 🌍 **Website:** [Coming Soon]  
+- 💬 **LinkedIn:** [https://www.linkedin.com/in/marygrace-obus-0318262aa/]  
+- 🐦 **Twitter/X:** [Your Twitter Handle]  
+
+---
+
+✨ _“Code, Deploy, and Scale!”_ ✨
+
