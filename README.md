@@ -4,7 +4,10 @@ I'm **Grasya01**, a passionate developer always exploring new technologies.
 I love working on **backend systems, APIs, and DevOps** 🚀  
 
 ### 🌱 **What I'm currently working on:**
-- 🔧 Building and maintaining **Laravel & Node.js APIs**  
+- 🔧 Building and maintaining **Laravel & Node.js APIs**
+- 🛠 Managing **DevOps tasks**, including **CI/CD, Docker, and server automation**  
+- 📡 Deploying and securing **cloud-based applications**  
+- 🚀 Optimizing **infrastructure for high performance and scalability**  
 - 🛠️ Setting up **Docker, Proxmox, and VM environments**  
 - ⚡ Working on **Fastify, MySQL, and Redis integration**  
 
@@ -16,7 +19,8 @@ I love working on **backend systems, APIs, and DevOps** 🚀
 ### 📫 **Let's Connect!**
 - 🌍 **Website:** [Coming Soon]  
 - 💬 **LinkedIn:** [https://www.linkedin.com/in/marygrace-obus-0318262aa/]  
-- 🐦 **Twitter/X:** [Your Twitter Handle]  
+- 🐦 **Twitter/X:** [Your Twitter Handle]
+- 
 
 ---
 
